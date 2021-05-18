@@ -1708,7 +1708,7 @@ Par exemple::
             'day' => false,
             'year' => [
                 'class' => 'cool-years',
-                'title' => 'Année d'inscription'
+                'title' => 'Année d\'inscription'
             ]
         ]);
     ?>
